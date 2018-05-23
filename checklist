@@ -1,0 +1,31 @@
+Pré Processamento:
+  binário                 OK
+  tf                      OK
+  tf-idf                  OK
+
+
+Distancias:
+  Euclidiana              OK
+  Similaridade-Cosseno    OK
+
+
+K-means:
+  K-means clássico        OK
+  K-means++               OK
+  X-Means                 ??
+
+Self
+OrganizingMaps(SOM)       ??
+ 
+
+Medidas de Desempenho:
+  Silhouette              OK
+  Erro Quantização        ??
+  Distorção Topológica    ??
+
+
+Visualização:
+  3D                      OK
+  2D                      Chegando no ok
+  Silhouette              Quase ok
+  SOM                     ??
