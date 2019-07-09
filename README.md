@@ -1,4 +1,4 @@
-# EPIA
+# EP-IA
 Text clustering studies
 
 This is a repo for my text clustering assignment in my Artificial Inteligence course at the University of São Paulo.
